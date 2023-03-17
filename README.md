@@ -3,6 +3,7 @@
 ## Proyecto final elaborado por Norma Paulina López Zamora para el Bootcamp "Women in bioinformatics and Data Science"
 
 Para este proyecto se hará uso de las siguientes bibliotecas, que se pueden instalar con el comando !pip3 install
+```
 - !pip3 install matplotlib
 - !pip3 install requests
 - !pip3 install matplotlib
@@ -12,6 +13,7 @@ Para este proyecto se hará uso de las siguientes bibliotecas, que se pueden ins
 - !pip3 install requests
 - !pip3 install seaborn
 - !pip3 install biopython
+```
 
 Las bibliotecas que usaremos son las siguientes:
 
