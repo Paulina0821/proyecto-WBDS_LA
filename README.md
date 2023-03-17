@@ -2,6 +2,8 @@
 ## 2023 1st WBDS LA Camp "Introduction to Bioinformatics and Data Science"** 
 ## Proyecto final elaborado por Norma Paulina López Zamora para el Bootcamp "Women in bioinformatics and Data Science"
 
+ A la fecha, se ha caracterizado gran diversidad de géneros bacterianos que tiene la capacidad de fijar nitrogeno y producir compuestos que estimulan el crecimiento vegetal. El género *Pseudomonas* ha sido ampliamente estudiado por su capacidad de excretar metabolitos secundarios que han demostrado ser efectvios en el biocontrol (Bonaterra, et al. 2022). 
+
 Para este proyecto se hará uso de las siguientes bibliotecas, que se pueden instalar con el comando !pip3 install
 ```
 - !pip3 install matplotlib
@@ -48,3 +50,5 @@ from pycirclize.parser  import Gff
 from requests.adapters  import HTTPAdapter, Retry
 
 ```
+
+Debes registrarte con tu correo electrónico y obtener la API key que proporciona NCBI a sus usuarios registrados (más información de como obtener una API key aquí)
