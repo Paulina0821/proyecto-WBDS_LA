@@ -51,4 +51,4 @@ from requests.adapters  import HTTPAdapter, Retry
 
 ```
 
-Debes registrarte con tu correo electrónico y obtener la API key que proporciona NCBI a sus usuarios registrados (más información de como obtener una API key [aquí](https://support.nlm.nih.gov/knowledgebase/article/KA-05317/en-us)
+Para poder correr el código debes registrarte con tu correo electrónico y obtener la API key que proporciona NCBI a sus usuarios registrados (más información de como obtener una API key [aquí](https://support.nlm.nih.gov/knowledgebase/article/KA-05317/en-us)
