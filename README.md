@@ -39,8 +39,8 @@ import subprocess
 import sys
 from Bio import SeqIO
 from Bio import Entrez
-Entrez.email   = "paulyna_9omar@hotmail.com"
-Entrez.api_key = "48c3a23c85df17cbf0c11dae486cf7723b09"
+Entrez.email   = "aquí va tu correo"
+Entrez.api_key = "aquí va el código del API key"
 from io                 import StringIO
 from matplotlib.patches import Patch
 from pycirclize         import Circos
