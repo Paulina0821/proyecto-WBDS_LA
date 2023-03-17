@@ -1,1 +1,1 @@
-# proyecto-WBDS_LA
+# **Women in Bioinformatics and Data Science**
