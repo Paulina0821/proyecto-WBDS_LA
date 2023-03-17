@@ -27,4 +27,24 @@ Las bibliotecas que usaremos son las siguientes:
 - [BioPython](https://biopython.org/) para el manejo de secuencias
 - [io](https://docs.python.org/3/library/io.html) para conectar las entradas y salidas de los distintos programas
 
-## Importemos las librerías que vamos a usar con el siguiente código:
+Importemos las librerías que vamos a usar con el siguiente código:
+```
+import matplotlib.pyplot as plt
+import numpy  as np
+import pandas as pd
+import pyrodigal
+import requests
+import seaborn as sns
+import subprocess
+import sys
+from Bio import SeqIO
+from Bio import Entrez
+Entrez.email   = "paulyna_9omar@hotmail.com"
+Entrez.api_key = "48c3a23c85df17cbf0c11dae486cf7723b09"
+from io                 import StringIO
+from matplotlib.patches import Patch
+from pycirclize         import Circos
+from pycirclize.parser  import Gff
+from requests.adapters  import HTTPAdapter, Retry
+
+```
